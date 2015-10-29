@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParseLoginProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sing_up">SingUp</string>
+    <string name="title_activity_parse_loggin_in">ParseLogginIn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
